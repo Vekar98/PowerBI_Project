@@ -1,2 +1,3 @@
 # PowerBI_Project
-Bartosz Olechnowicz PowerBI Project
+Welcome to my repository.
+Here you can find my project created in PowerBI.
