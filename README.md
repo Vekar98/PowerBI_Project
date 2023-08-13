@@ -2,7 +2,7 @@
 Welcome to my repository.
 Here you can find my project created in PowerBI.
 
-There are here few files:
-- Project saved in .pbix
-- Visualisation in .pdf
-- Step by step instruction in .pdf
+In this repository you can find few files:
+- My Power BI project saved in .pbix
+- Final visualisation saved in .pdf
+- Step by step instruction on how I did the project saved in .pdf
